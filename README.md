@@ -3,6 +3,7 @@ I am not responsible nor liable to any damages caused by this application, and b
 # WEBHOOK APP
 Simple Webhook App with a GUI I made in Turbowarp (a modified Scratch 3.0)
 Contained in the repository is the SB3 (Scratch 3.0) file, and the contents of that file.
+The SB3 file ONLY works in TurboWarp. Opening it in Scratch will not work.
 # CREDITS
 Danny Aguero (me) - Programming the input functions of this Application & it's GUI
 -SIPC- - Time extension on TurboWarp's Unsandboxed Extensions
